@@ -1,0 +1,6 @@
+TK.update.frame
+http://stackoverflow.com/questions/19477636/does-tkinter-have-a-refresh-method
+http://epydoc.sourceforge.net/stdlib/Tkinter.Misc-class.html#update
+
+Port Lookup
+http://www.speedguide.net/port.php?port=445

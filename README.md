@@ -1,2 +1,2 @@
 # KumasCookbook
-A collection of useful templates and code snippets in python 3x
+A collection of templates,Snipets of code, and random odds and ends of me learning python
